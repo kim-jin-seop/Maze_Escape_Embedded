@@ -59,6 +59,6 @@ MoveStatus를 확인하여 적절한 움직임을 제공하여주기만 하면 �
 ## 대회 영상 및 성능 분석
 1. 1차 주행  
 - 주행 영상  
-[![1차주행](https://img.youtube.com/vi/eUQFtpxet1kw/0.jpg)](https://www.youtube.com/watch?v=eUQFtpxet1k&feature=youtu.be)   
+[![1차주행](https://img.youtube.com/vi/eUQFtpxet1k/0.jpg)](https://www.youtube.com/watch?v=eUQFtpxet1k&feature=youtu.be)   
 - 성능 분석  
 1차 주행시에 가장 불안하였던 성능은, 동쪽 혹은 서쪽으로 이동하는 경우에 북쪽으로 갈 수 있는 길이 있다면 가게 되는데, 그것의 딜레이 값이 조금 길어서 약간 원하는 경로로 가지 못하는 경우가 생기는 문제점이 있었 다. 하지만 IR센서를 활용하여 약간의 보정을 해주는 등의 주행 중 오류를 보정하는 것을 통하여 안정적으로 완 주를 할 수 있게 되었다. 또한 정확하게 Calibration을 수행해 주어 거의 직선으로 이동하였고, 회전도 바퀴가 틈 에 끼지 않는 이상 거의 90도를 회전하는 모습을 보여 굉장히 빠른 시간(59초)에 통과할 수 있었다. 목표하였던 시간 단축을 위해 수행해주었던 작업들이 모두 성공적으로 동작함을 알 수 있었다.
